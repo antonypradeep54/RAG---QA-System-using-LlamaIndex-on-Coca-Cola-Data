@@ -1,0 +1,50 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.so
+
+# Virtual Environments
+
+venv/
+.env/
+.venv/
+
+# Environment Variables
+
+.env
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Google Colab
+
+content/
+
+# Vector Database
+
+chroma_db/
+storage/
+index_storage/
+
+# macOS
+
+.DS_Store
+
+# Logs
+
+*.log
+
+# Build
+
+build/
+dist/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/

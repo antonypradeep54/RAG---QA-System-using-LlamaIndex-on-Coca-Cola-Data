@@ -125,7 +125,7 @@ Breaks complex questions into smaller questions and synthesizes results.
 
 **Antony Pradeep Raj**
 
-Senior Product Owner | AI & Generative AI Enthusiast
+Product Manager | AI & Generative AI Enthusiast
 
-This project was completed as part of the Pinnacle Program AI learning journey.
+This project was completed as part of the Generative AI Pinnacle learning journey.
 
